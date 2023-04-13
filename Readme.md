@@ -23,6 +23,6 @@
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
-<h2> Some of my projects <h2>
- <h1>Leave Management System</h1>
+<h1>🚀 Some of my projects 🚀 <h1>
+ <h3>Leave Management System</h3>
  https://github.com/Rohitnale000/Leave_Management_System-v1.git
