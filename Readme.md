@@ -24,7 +24,9 @@
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
 <h1>🚀 Some of my projects 🚀 <h1>
- <h3>LMS with NodeJs Sequalize and SvelteJS </h3>
+ <h3>LMS with NodeJS Sequalize and SvelteJS </h3>
  https://github.com/Rohitnale000/Leave_Management_System-v1.git
- <h3>UMS with NodeJs,Sequalize and SvelteJS </h3>
+ <h3>UMS with NodeJS,Sequalize and SvelteJS </h3>
  https://github.com/Rohitnale000/User-Management-with-Sequalize-ORM.git
+ <h3>TODO application in SvelteJS </h3>
+ https://github.com/Rohitnale000/todo-application.git
