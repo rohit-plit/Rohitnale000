@@ -23,7 +23,7 @@
  
 <img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
-<img src="[https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+<img src="[[https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)](https://www.pngwing.com/en/free-png-azbzv)"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
 </div>
 <h2>My Stats 🔥</h2>
