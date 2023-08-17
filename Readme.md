@@ -20,11 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
- 
-<img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>
-
-<img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
-
+<img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+<img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
