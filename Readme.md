@@ -23,7 +23,7 @@
  
 <img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yk5D5cQB3jd7EiPzrDrD5w.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
 </div>
 <h2>My Stats 🔥</h2>
