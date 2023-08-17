@@ -23,7 +23,7 @@
  
 <img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
-<img src="[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yk5D5cQB3jd7EiPzrDrD5w.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawwiBPXjCEAVE55spQ0LfCEqDsc6WBfTL8Q&usqp=CAU)"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+<img src="https://www.tutorialandexample.com/wp-content/uploads/2019/11/Getting-started-with-Reactjs.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 
 </div>
 <h2>My Stats 🔥</h2>
