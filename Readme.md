@@ -26,7 +26,7 @@
 </div>
 <h2>Intersting Facts</h2>
 <div>
- <a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=2is" width="400" alt="Rohit Nale's Dev Card"/></a>
+<a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=8qn" width="400" alt="Rohit Nale's Dev Card"/></a>
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
