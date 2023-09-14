@@ -7,10 +7,7 @@
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Love Travelling
-<h2>Intersting Facts</h2>
-<div>
- <a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=2is" width="400" alt="Rohit Nale's Dev Card"/></a>
-</div>
+
 <h2>Languages and Tools 🛠️</h2>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
@@ -26,6 +23,10 @@
  
 <img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 <img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+</div>
+<h2>Intersting Facts</h2>
+<div>
+ <a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=2is" width="400" alt="Rohit Nale's Dev Card"/></a>
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
