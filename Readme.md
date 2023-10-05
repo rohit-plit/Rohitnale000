@@ -27,7 +27,7 @@
 <h2>Intersting Facts</h2>
 <div>
 <a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=8qn" width="400" alt="Rohit Nale's Dev Card"/></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/6WNz8nH/qrifyQr.png" alt="qrifyQr" border="0">Scan QR </a>
+<a href="https://github.com/Rohitnale000/Rohitnale000"><img src="https://i.ibb.co/6WNz8nH/qrifyQr.png" alt="qrifyQr" border="0">Scan QR </a>
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
