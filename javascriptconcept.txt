@@ -1,0 +1,75 @@
+Javascript Important topics
+
+                                                    basic Concepts
+
+1- JavaScript Variables(let,var,const)
+        -its scope and uses
+2- Datatypes of JavaScript
+        -primitive Datatypes(string,number,boolean,Null,undifine)
+        -non primitive  (object)    
+3- operators of JavaScript
+        -Arithmetic operators
+        -assignment operator
+        -comparison operators
+        -Logical operators
+4- typeof operator
+5- control flow
+            -if--else statment
+            -for loop
+            -while loop
+            -break,containous statment
+            -switch case
+            -JavaScript for--in loop
+6- JavaScript type conversions
+            -implicit conversion
+            -explicit conversion
+7- Ternary operator(?:)
+8- Hosting concept
+            -function Hosting 
+            -Variables Hosting
+9-  JavaScript object and its method
+10- JavaScript Array and its method
+11- JavaScript constructor function
+12- getter and setter method
+13- this keyword
+14- JavaScript function concept
+            -Arrow function
+            -IIFE function
+            -Annonomus function (unnamed function)
+15- JavaScript first class citizans (storing function in variable )            
+16- pass-by-value and pass-by-refrance concept
+17-Spread operator (...)
+18-Rest parameters 
+19-Destructuring concept
+            -array Destructuring
+            -object Destructuring
+20- Closure in Javascript => inner functions variable access outer function variable    
+21- Function expression and function decleation 
+22- Higher Order Functions in JavaScript                  
+23- Default parameters
+
+                                            Advance JavaScript Concept  
+
+
+1-  Callback Functions                                                    
+2-  Promise concept
+3-  asyc await
+4-  JAVASCRIPT ERROR HANDLING
+            -try…catch
+            -try…catch…finally
+            -Throw an Exception
+            -Optional catch Binding
+5- call() apply() and bind() method in Javascript                
+6- JSON (Javascript object notation)
+            -JSON.strigyfy()
+            -json.parse() 
+7- Map() and reduce() function
+8- Modules in JavaScript
+
+
+                                    Theory concept
+1- DOM object
+2- BOM object 
+3- Shallow copy 
+4- Deep copy
+5 differace between null and undifine    
