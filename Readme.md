@@ -23,6 +23,7 @@
  
 <img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 <img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+<img src="[https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png](https://sass-lang.com/assets/img/logos/logo.svg)"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 </div>
 <h2>Intersting Facts</h2>
 <div>
