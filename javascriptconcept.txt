@@ -1,6 +1,6 @@
 Javascript Important topics
 
-                                                    basic Concepts
+                                            basic Concepts
 
 1- JavaScript Variables(let,var,const)
         -its scope and uses
@@ -48,13 +48,12 @@ Javascript Important topics
 22- Higher Order Functions in JavaScript                  
 23- Default parameters
 
-                                            Advance JavaScript Concept  
-
+                                        Advance JavaScript Concept  
 
 1-  Callback Functions                                                    
 2-  Promise concept
 3-  asyc await
-4-  JAVASCRIPT ERROR HANDLING
+4-  JAVASCRIPT ERROR HANDLING (learn from JavaScripttutorial.net)
             -try…catch
             -try…catch…finally
             -Throw an Exception
@@ -65,11 +64,18 @@ Javascript Important topics
             -json.parse() 
 7- Map() and reduce() function
 8- Modules in JavaScript
-
+9- Javascript setTimeout() and setInterval() method.
+10-JavaScript Factory Functions (read from JavaScripttutorial.net)
+11- set, map ,stack ,Queue (data structure)
 
                                     Theory concept
 1- DOM object
 2- BOM object 
 3- Shallow copy 
 4- Deep copy
-5 differace between null and undifine    
+5 differace between null and undifine     
+
+                                    other Concepts
+
+1- local storage
+2- session storage, cookies  all storage from browser side                                    
