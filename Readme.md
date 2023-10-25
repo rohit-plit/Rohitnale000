@@ -41,5 +41,7 @@ http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mod
  https://github.com/Rohitnale000/todo-application.git
  <h1>🚀front-end projects🚀<h1>
  <h2>click to link visit that webpage</h2>
- <h3>Veggy online sore </h3>
+ <h3>Veggy online store </h3>
 https://rohitnale000.github.io/Veggy-web-app/
+<h3>Login Registration </h3>
+https://rohitnale000.github.io/login-registration-task/
