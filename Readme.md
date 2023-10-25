@@ -42,4 +42,4 @@ http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mod
  <h1>🚀front-end projects🚀<h1>
  <h2>click to link visit that webpage</h2>
  <h3>Veggy online sore </h3>
- https://rohitnale000.github.io/veggy-website/
+ https://rohitnale000.github.io/Veggy-web-app/
