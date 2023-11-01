@@ -1,13 +1,12 @@
-
+<div>
 <h2>Hi there, I am Rohit. A Full Stack Engineer by work, and MCA Graduate 👋 </h2>
-
 - 🔭 I’m currently working on ...SvelteJS and NodeJS
 - 🌱 I’m currently learning ...PostgreSQL
 - 👯 I’m looking to collaborate on ...SvelteJS
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Love Travelling
-
+</div>
 <h2>Languages and Tools 🛠️</h2>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
