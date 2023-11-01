@@ -40,7 +40,7 @@ http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mod
  <h3>TODO application in SvelteJS </h3>
  https://github.com/Rohitnale000/todo-application.git
  <h1>🚀front-end projects🚀<h1>
- <h2>click to link visit that webpage</h2>
+ <h2>Please click on the link to view the project</h2>
  <h3>Veggy online store </h3>
 https://rohitnale000.github.io/Veggy-web-app/
 <h3>Ticketing Tool</h3>
