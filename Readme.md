@@ -37,6 +37,8 @@
  https://github.com/Rohitnale000/todo-application.git
  <h1>🚀front-end projects🚀<h1>
  <h2>Please click on the link to view the project</h2>
+   <h3>Photo Gallery</h3>
+https://rohitnale000.github.io/Photo-Gallery/
  <h3>Veggy online store </h3>
 https://rohitnale000.github.io/Veggy-web-app/
 <h3>Ticketing Tool</h3>
