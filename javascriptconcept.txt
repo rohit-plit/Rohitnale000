@@ -5,7 +5,7 @@ Javascript Important topics
 1- JavaScript Variables(let,var,const)
         -its scope and uses
 2- Datatypes of JavaScript
-        -primitive Datatypes(string,number,boolean,Null,undifine)
+        -primitive Datatypes(string,number,boolean,Null,undifine,symbol)
         -non primitive  (object)    
 3- operators of JavaScript
         -Arithmetic operators
